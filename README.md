@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huixin-zhan
 - 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning multi-hop reasoning and nlp based summarization
-- 💞️ I’m looking for collaboration
+- 💞️ I’m looking for collaborations in reinforcement learning
 - 📫 How to reach me huixin.zhan@ttu.edu
 
 <!---
